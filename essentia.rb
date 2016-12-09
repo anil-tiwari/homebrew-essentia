@@ -23,7 +23,7 @@ class Essentia < Formula
   depends_on "fftw" => :recommended
   depends_on "ffmpeg" => :recommended
   depends_on "libsamplerate" => :recommended
-  depends_on "libtag" => :recommended
+  #depends_on "libtag" => :recommended
 
 
   def install
